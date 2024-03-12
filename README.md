@@ -99,6 +99,8 @@ Enjoy EmojiBot in these ways:
 
 These features offer a unique window into the emoji world, combining fun interactions with insightful data exploration. Enjoy exploring!
 
+## Demo Poster
+[Demo Poster.pdf](https://github.com/user-attachments/files/21201732/Demo.Poster.pdf)
 
 ## Contributing
 
